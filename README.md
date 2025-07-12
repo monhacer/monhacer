@@ -40,13 +40,20 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monhacer&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" width="50%" alt="languages graph"  />
+</div>
+
+###
+
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=monhacer&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" width="47%" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=monhacer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" width="48%" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=monhacer&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/monhacer/monhacer/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
